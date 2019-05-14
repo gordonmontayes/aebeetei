@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aveviengah.brat-lang.org/sitemap.xml
